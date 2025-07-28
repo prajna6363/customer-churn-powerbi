@@ -44,7 +44,7 @@ This project presents a detailed Power BI dashboard that analyzes and visualizes
 
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview]
+
 1.Dashboard view
 <img width="1227" height="818" alt="image" src="https://github.com/user-attachments/assets/4e4ee2d0-9807-4eb7-a722-88306e6c6880" />
 
