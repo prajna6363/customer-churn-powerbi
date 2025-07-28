@@ -45,20 +45,28 @@ This project presents a detailed Power BI dashboard that analyzes and visualizes
 # 🖼️ Dashboard Preview
 
 ![Dashboard Preview]
+1.Dashboard view
 <img width="1227" height="818" alt="image" src="https://github.com/user-attachments/assets/4e4ee2d0-9807-4eb7-a722-88306e6c6880" />
 
+2.Churn By Tenure (<1year)
 <img width="1221" height="789" alt="image" src="https://github.com/user-attachments/assets/a7d3dc50-b5e3-4ff0-98bc-90d073d5007f" />
 
+3.Churn By Tenure (1-3year)
 <img width="1221" height="760" alt="image" src="https://github.com/user-attachments/assets/f1fb945a-8856-43e7-9668-df05cc83e3e7" />
 
+4.Churn By Tenure (>3year)
 <img width="1226" height="760" alt="image" src="https://github.com/user-attachments/assets/c7b41342-d340-47b2-955e-24e1c8d938a2" />
 
+5.Subscribed Services(No)
 <img width="1224" height="784" alt="image" src="https://github.com/user-attachments/assets/aab07359-f10d-440f-8a53-b70b2c9c2a11" />
 
+6.Subscribed Services(Yes)
 <img width="1235" height="760" alt="image" src="https://github.com/user-attachments/assets/85afe7ff-78ba-4923-899b-611fe8b868a3" />
 
+7.Internet Service Users(Fiber Optics)
 <img width="1230" height="793" alt="image" src="https://github.com/user-attachments/assets/bd7daff5-3ff0-47b0-ae81-7a33df449b59" />
 
+8.Payment Method
 <img width="1230" height="794" alt="image" src="https://github.com/user-attachments/assets/fee6c3a8-8d6b-4cb6-8a8a-b1256b292d7b" />
 
 
